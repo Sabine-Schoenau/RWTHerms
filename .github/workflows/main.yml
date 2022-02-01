@@ -14,7 +14,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        repository: rdmorganiser/rdmo-catalog
+        repository: rdmorganiser/terms
 
     - name: Use Python 3.8
       uses: actions/setup-python@v2
